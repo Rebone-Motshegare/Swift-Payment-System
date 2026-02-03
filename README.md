@@ -2,8 +2,10 @@
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/mynj0YAW)
 
-<img width="1333" height="605" alt="image" src="https://github.com/user-attachments/assets/80d6706c-97ac-4bf2-b608-c32e954cbad1" />
-<img width="1338" height="534" alt="image" src="https://github.com/user-attachments/assets/e9af515d-6011-4594-9008-11bb7a94ba5c" />
+<img width="1338" height="534" alt="507259735-e9af515d-6011-4594-9008-11bb7a94ba5c" src="https://github.com/user-attachments/assets/bf305d29-b175-4a84-a43f-285623d41ed6" />
+
+<img width="1333" height="605" alt="506696824-80d6706c-97ac-4bf2-b608-c32e954cbad1" src="https://github.com/user-attachments/assets/4c2830ab-eabc-41c2-844e-9d63a8c65884" />
+
 ## Overview
 
 This repository contains a full-stack sample application:

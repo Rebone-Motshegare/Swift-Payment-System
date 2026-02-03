@@ -4,8 +4,6 @@
 
 <img width="1333" height="605" alt="image" src="https://github.com/user-attachments/assets/80d6706c-97ac-4bf2-b608-c32e954cbad1" />
 <img width="1338" height="534" alt="image" src="https://github.com/user-attachments/assets/e9af515d-6011-4594-9008-11bb7a94ba5c" />
-
-
 ## Overview
 
 This repository contains a full-stack sample application:

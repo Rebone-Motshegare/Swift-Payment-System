@@ -239,13 +239,3 @@ Frontend (`frontend/package.json`):
 
 ---
 
-If you'd like, I can:
-
-- add a `backend/.env.example` and `frontend/.env.example` to the repo,
-- add a short section that explains how to run both services with `concurrently` or `docker-compose`, or
-- include commands for Windows PowerShell to create self-signed certs using the repo scripts.
-
-Tell me which additions you want and I'll implement them.
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/mynj0YAW)
-<img width="1333" height="605" alt="image" src="https://github.com/user-attachments/assets/80d6706c-97ac-4bf2-b608-c32e954cbad1" />
-<img width="1323" height="433" alt="image" src="https://github.com/user-attachments/assets/e7a70227-d73b-4d83-a70d-344e34db1109" />
